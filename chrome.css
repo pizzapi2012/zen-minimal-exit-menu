@@ -14,12 +14,12 @@
 }
 
 .titlebar-min {
-    background-color: hsl(130, 50%, 40%) !important;
+    background-color: hsl(60, 50%, 50%) !important;
     content: none !important;
 }
 
 .titlebar-max, .titlebar-restore {
-    background-color: hsl(60, 50%, 50%) !important;
+    background-color: hsl(130, 50%, 40%) !important;
     content: none !important;
 }
 
