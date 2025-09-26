@@ -40,11 +40,11 @@
     }
     
     .titlebar-min:hover {
-        background-color: hsl(130, 50%, 40%) !important;
+        background-color: hsl(60, 50%, 50%) !important;
     }
 
     .titlebar-max:hover, .titlebar-restore:hover {
-        background-color: hsl(60, 50%, 50%) !important;
+        background-color: hsl(130, 50%, 40%) !important;
     }
 
     .titlebar-close:hover {
